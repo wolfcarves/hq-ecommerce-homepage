@@ -23,8 +23,10 @@
         "backgroundColor": "#ffffff"
       }
     },
+    "scheme": "HQ-Ecommerce-FrontEnd-Mobile",
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
     }
   }
 }
